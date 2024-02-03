@@ -1,10 +1,17 @@
 # Airbnb_Bookings_Analysis---Capstone_Project-by-Md-Mahfooz-Alam-Ansari
 ![Airbnb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nzherald.co.nz%2Ftravel%2Felizabeth-hirschorn-stays-in-airbnb-for-more-than-540-days-refuses-to-pay-rent%2FM7HTKYNLHJCYXGQBYPULV723NA%2F&psig=AOvVaw1zDKT8B8LXo3GgU-l1ix_h&ust=1707059000871000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCg9ry4j4QDFQAAAAAdAAAAABAI)
+
 ![Image 2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nzherald.co.nz%2Ftravel%2Felizabeth-hirschorn-stays-in-airbnb-for-more-than-540-days-refuses-to-pay-rent%2FM7HTKYNLHJCYXGQBYPULV723NA%2F&psig=AOvVaw1zDKT8B8LXo3GgU-l1ix_h&ust=1707059000871000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCg9ry4j4QDFQAAAAAdAAAAABAI)
 
 ## About Airbnb
 
 Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Headquartered in San Francisco, California, the platform is accessible via the website and mobile app. Since its inception in 2008, guests and hosts have utilized Airbnb to broaden travel possibilities and offer a more unique, personalized way of experiencing the world. Today, Airbnb has become a one-of-a-kind service, widely used and recognized globally.
+
+## Author
+
+**Md Mahfooz Alam Ansari**
+
+Individually completed with dedication.
 
 ## Project Overview
 
@@ -35,7 +42,7 @@ Explore and analyze the data to uncover key insights, including but not limited 
 
 ### Notebooks
 
-1. [Google Drive Import](link-to-notebook): Mounting Google Drive to access the dataset and importing it for initial exploration.
+1. [Google Drive Import](https://colab.research.google.com/drive/1zRZv0eqaY94D4CEpTICRqKSlMH2wxm2E): Mounting Google Drive to access the dataset and importing it for initial exploration.
 
 ### Data Analysis Tools
 
@@ -46,7 +53,7 @@ Explore and analyze the data to uncover key insights, including but not limited 
   - Explore interactive visualizations on the [Tableau Dashboard](https://public.tableau.com/views/AirbnbTableau_16884627478810/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 - **Microsoft Excel:**
-  - Additional insights and visualizations available in the [Excel Analysis](link-to-excel).
+  - Additional insights and visualizations available in the [Excel Analysis](https://1drv.ms/x/s!AiRYdqGxH35EgWc-2QktrV3r_slq?e=d25bbq).
 
 ## Conclusions
 
@@ -75,8 +82,8 @@ Explore and analyze the data to uncover key insights, including but not limited 
 - numpy
 - pandas
 - matplotlib
-- [Tableau](link-to-tableau)
-- [Microsoft Excel](link-to-excel)
+- [Tableau](public.tableau.com/views/AirbnbTableau_16884627478810/Dashboard4?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Microsoft Excel](https://1drv.ms/x/s!AiRYdqGxH35EgWc-2QktrV3r_slq?e=d25bbq)
 
 ## How to Contribute
 
@@ -84,4 +91,4 @@ If you find any issues or have suggestions for improvement, please contribute by
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Md Mahfooz Alam Ansari] - see the (https://github.com/Mahfooz167/Airbnb_Bookings_Analysis---Capstone_Project-by-Md-Mahfooz-Alam-Ansari) file for details.

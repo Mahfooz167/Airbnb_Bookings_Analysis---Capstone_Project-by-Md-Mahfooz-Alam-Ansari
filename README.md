@@ -1,7 +1,7 @@
 # Airbnb_Bookings_Analysis---Capstone_Project-by-Md-Mahfooz-Alam-Ansari
 ![Airbnb](https://www.theforage.com/blog/wp-content/uploads/2023/01/working-at-airbnb.jpg)
 
-![Image 2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nzherald.co.nz%2Ftravel%2Felizabeth-hirschorn-stays-in-airbnb-for-more-than-540-days-refuses-to-pay-rent%2FM7HTKYNLHJCYXGQBYPULV723NA%2F&psig=AOvVaw1zDKT8B8LXo3GgU-l1ix_h&ust=1707059000871000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCg9ry4j4QDFQAAAAAdAAAAABAI)
+![Image 2](https://cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/ZRNBMN4P2ZFDFILHUULRK6PMUI.jpg)
 
 ## About Airbnb
 
